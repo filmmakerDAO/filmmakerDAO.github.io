@@ -80,12 +80,12 @@
   text-transform: uppercase;
 }
 
-.heading {
-  margin-top: 1px;
-  margin-bottom: 0px;
-  font-family: Oswald, sans-serif;
-  line-height: 34px;
-  text-transform: uppercase;
+.headings {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-family: Lato, sans-serif;
+  font-size: 40px;
+  line-height: 12px;
 }
 
 .div-block {
