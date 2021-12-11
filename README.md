@@ -1,3 +1,3 @@
-## Filmmaker DAO Countdown page
+## FilmmakerDAO Countdown page
 
-🤝
+Page for NFT Membership drop.
